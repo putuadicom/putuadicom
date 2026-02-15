@@ -1,6 +1,6 @@
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
-
+## About me
 **WordPress Developer Based in Bali, Indonesia**
 
 I’m Putu Adi, a WordPress specialist who builds websites and web apps for business owners who want results, not just a launch.

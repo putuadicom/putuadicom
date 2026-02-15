@@ -1,11 +1,11 @@
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
 
-**WordPress Developer, Bali Indonesia**
+**WordPress Developer, 🇮🇩 Bali Indonesia**
 
 I build fast, reliable WordPress websites and WordPress based web apps for business owners in Indonesia and worldwide.
 
-My focus is simple, WordPress, done properly.
+My focus is simple, Website built for outcomes, not just pages.
 
 ---
 
@@ -55,19 +55,3 @@ If you are a business owner who needs a WordPress website or a WordPress based w
 
 - Website: https://putuadi.com
 - Email: mail@putuadi.com
-
-
-<!--
-**putuadicom/putuadicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

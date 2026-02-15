@@ -1,11 +1,13 @@
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
 
-**WordPress Developer, 🇮🇩 Bali Indonesia**
+**WordPress Developer Based in Bali, Indonesia**
 
-I build fast, reliable WordPress websites and WordPress based web apps for business owners in Indonesia and worldwide.
+I’m Putu Adi, a WordPress specialist who builds websites and web apps for business owners who want results, not just a launch.
 
-My focus is simple, Website built for outcomes, not just pages.
+If your website feels like a brochure, looks fine but doesn’t bring leads, or gets traffic that never converts, the problem is rarely the design, it’s the lack of strategy. I build WordPress websites around your business goals and your target audience, so the site is structured to attract the right traffic, guide visitors through a simple funnel, and turn them into customers.
+
+Based in Bali, Indonesia. Available for global clients with budget friendly rates.
 
 ---
 
@@ -17,13 +19,6 @@ I specialize in building and maintaining WordPress systems that are clean, scala
 - WooCommerce customization for service based businesses
 - Performance, security hardening, and stability improvements
 - Integrations (payments, WhatsApp flows, forms, analytics)
-
----
-
-## My mission
-A lot of people underestimate WordPress, not because WordPress is weak, but because it is often used without understanding its full potential.
-
-I want to prove that WordPress is powerful when built with the right structure, and that it can deliver serious business systems while staying easy for non technical business owners to manage.
 
 ---
 
@@ -54,4 +49,3 @@ I want to prove that WordPress is powerful when built with the right structure, 
 If you are a business owner who needs a WordPress website or a WordPress based web app, feel free to reach out.
 
 - Website: https://putuadi.com
-- Email: mail@putuadi.com

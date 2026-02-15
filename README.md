@@ -1,7 +1,4 @@
-## Hi there 👋
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
-
-
 
 
 <!--

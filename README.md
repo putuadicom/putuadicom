@@ -23,7 +23,7 @@ I specialize in building and maintaining WordPress systems that are clean, scala
 ## My mission
 A lot of people underestimate WordPress, not because WordPress is weak, but because it is often used without understanding its full potential.
 
-I want to prove that WordPress is powerful when built with the right structure, and that it can deliver serious business systems while staying easy for non technical owners to manage.
+I want to prove that WordPress is powerful when built with the right structure, and that it can deliver serious business systems while staying easy for non technical business owners to manage.
 
 ---
 

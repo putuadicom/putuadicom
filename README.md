@@ -1,41 +1,61 @@
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
-### 🚀 WordPress Developer | PHP & JavaScript Enthusiast
-Saya adalah seorang **Web Developer** yang memiliki spesialisasi dalam membangun solusi kustom di atas platform WordPress. Saya berfokus pada pembuatan website yang berperforma tinggi, aman, dan *scalable*—lebih dari sekadar instalasi tema standar.
+
+**WordPress Developer, Bali Indonesia**
+
+I build fast, reliable WordPress websites and WordPress based web apps for business owners in Indonesia and worldwide.
+
+My focus is simple, WordPress, done properly.
 
 ---
 
-### 🛠 My Tech Stack
+## What I do
+I specialize in building and maintaining WordPress systems that are clean, scalable, and easy to manage.
 
-- **Backend:** PHP (OOP), MySQL, WP-CLI
-- **Frontend:** JavaScript (ES6+), React (untuk Gutenberg), Tailwind CSS, Sass
-- **WordPress Core:** Theme Development (Custom/Hybrid), Plugin Development, Hooks API, Custom Post Types
-- **Workflow & Tools:** Git, Composer, NPM, Docker, Gulp/Webpack
-
----
-
-### 🔭 Apa yang Sedang Saya Kerjakan
-- 🛠️ Mengembangkan plugin kustom untuk integrasi API pihak ketiga.
-- 🎨 Membangun blok kustom menggunakan **Gutenberg (React)**.
-- ⚡ Optimasi Core Web Vitals untuk website berbasis WordPress.
-- 🌱 Sedang mendalami **Headless WordPress** menggunakan Next.js dan WPGraphQL.
+- Custom WordPress development (themes, plugins, custom features)
+- WordPress based web apps (dashboards, internal tools, CRM like modules)
+- WooCommerce customization for service based businesses
+- Performance, security hardening, and stability improvements
+- Integrations (payments, WhatsApp flows, forms, analytics)
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-KAMU]&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME-KAMU]&show_icons=true&theme=vision-friendly-dark)
+## My mission
+A lot of people underestimate WordPress, not because WordPress is weak, but because it is often used without understanding its full potential.
+
+I want to prove that WordPress is powerful when built with the right structure, and that it can deliver serious business systems while staying easy for non technical owners to manage.
 
 ---
 
-### 📫 Let's Connect!
-- 🌐 Website: [domainkamu.com](https://domainkamu.com)
-- 💼 LinkedIn: [linkedin.com/in/usernamekamu](https://linkedin.com/in/usernamekamu)
-- 📧 Email: [emailkamu@example.com](mailto:emailkamu@example.com)
+## How I work
+- Business first, I start from goals, workflow, and constraints
+- Clear scope and milestones, so delivery stays predictable
+- Clean code and maintainable structure, so future changes are safe
+- Practical solutions, not over engineered setups
 
 ---
 
-> "Code is poetry, especially when it's built on WordPress."
+## Core stack (by choice)
+- WordPress (PHP)
+- MySQL
+- JavaScript
+- Bootstrap 5
+- REST integrations inside WordPress when needed
+
+---
+
+## Current focus
+- Building WordPress based systems that replace manual operations (spreadsheets, chats, scattered notes)
+- Developing reusable modules for faster delivery across multiple projects
+
+---
+
+## Contact
+If you are a business owner who needs a WordPress website or a WordPress based web app, feel free to reach out.
+
+- Website: https://putuadi.com
+- Email: mail@putuadi.com
+
 
 <!--
 **putuadicom/putuadicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

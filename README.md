@@ -1,4 +1,8 @@
 ## Hi there 👋
+![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
+
+
+
 
 <!--
 **putuadicom/putuadicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

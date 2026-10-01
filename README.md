@@ -1,6 +1,9 @@
 ## GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=putuadicom&theme=github-dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img alt="GitHub Contributions" src="./assets/contributions.light.svg" width="100%" />
+</picture>
 
 ---
 

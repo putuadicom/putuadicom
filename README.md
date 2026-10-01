@@ -1,13 +1,10 @@
-## GitHub Contributions
+![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
   <img alt="GitHub Contributions" src="./assets/contributions.light.svg" width="100%" />
 </picture>
 
----
-
-![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
 ## About me
 **WordPress Developer Based in Bali, Indonesia**

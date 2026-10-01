@@ -1,3 +1,9 @@
+## GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=putuadicom&theme=github-dark&hide_border=true)
+
+---
+
 ![Header](https://putuadi.com/wp-content/uploads/2026/02/putuadi-github-header-banner.png)
 
 ## About me
